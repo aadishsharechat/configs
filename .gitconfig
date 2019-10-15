@@ -1,0 +1,31 @@
+[user]
+	name = aadish goel
+	email = aadishgoel2013@gmail.com
+[alias]
+	difff = diff --name-only
+	top = log --oneline -5
+	co = checkout
+	ststus = status
+	pul = pull
+	topp = log --oneline -10
+	fo = fetch origin
+	pom = pull origin master
+	st = status
+	dif = diff
+	s = status
+	d = diff
+	com = checkout master
+	dim = diff origin/master
+	dimm = difff origin/master
+	b = branch
+	br = branch -r
+	four = "fo ; git pom ; git pull ; git push"
+	two = "fo ; git pom"
+	mine = log --oneline --author='aadish'
+	one = log --oneline
+	last = log -1
+	hist = log -15 --oneline --graph --decorate
+	bp = br --list
+	bap = branch --all --list
+	ba = branch --all
+	dc = diff --cached
