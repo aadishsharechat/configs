@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/souravgupta/.oh-my-zsh"
+export ZSH="/Users/aadish/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -101,8 +101,8 @@ source $ZSH/oh-my-zsh.sh
 ## For Shortcuts
 alias python=python3
 alias pip=pip3.8
-alias pybin="cd /Users/souravgupta/Desktop/pythonBin"
-alias ag="cd /Users/souravgupta/Desktop/Aadish"
+alias pybin="cd /Users/aadish/Documents/Bins/PythonBin"
+alias ag="cd /Users/aadish/Documents/Aadish"
 alias py=python
 alias cls=clear
 alias g=git
@@ -110,7 +110,7 @@ alias myip="ipconfig getifaddr en0"
 alias newmod="rm -rf node_modules; npm i"
 alias please=sudo
 alias mob="adb tcpip 5555"
-alias adb="/Users/souravgupta/Library/Android/sdk/platform-tools/adb" 
+alias adb="/Users/aadish/Library/Android/sdk/platform-tools/adb" 
 
 
 #Python 
